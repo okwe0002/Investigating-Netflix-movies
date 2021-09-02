@@ -1,14 +1,13 @@
 ### Date created
-August 11, 2021
+September 02, 2021
 
 ### Project Title
-Investigate a Relational Database: Sakila Movie Database (fictional)
+Investigate Netflix movies
 
 ### Description
-The Sakila database is a fictional SQL database of online DVD rentals. This project shows the business questions answered using queries to the database. The report is stored in report.pdf while the queries are stored in query.txt
-
+This project performs EDA on a dataset of Netflix movies with the aim of answering the following question: Are movie durations getting shorter?
 ### Files used
-report.pdf and query.txt
+Investigating Netflix movies.ipynb and netflix_data.csv
 
 ### Credits
-Credits to Udacity for guidance through this project and to Mode analytics for the course content.
+Credits to Datacamp: This project is part of the Data Scientist with Python career track
